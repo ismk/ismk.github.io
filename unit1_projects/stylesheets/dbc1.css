@@ -1,0 +1,43 @@
+* {
+    color:white;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+    padding: 0;
+    margin: 0;
+}
+header {
+    background: url("../images/bean.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    border-radius: 20px;
+    height: 300px;
+    max-width: 100%;
+    margin: 0 auto;
+    position: relative;
+}
+body {
+    background-color: black;
+}
+p {
+    font-family:'Ubuntu', sans-serif;
+}
+li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+}
+#name{
+	font-size: 20px;
+	color: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
