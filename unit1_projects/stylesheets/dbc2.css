@@ -1,0 +1,14 @@
+#sidebar {
+    float:left;
+    background-color: red;
+    width: 200px;
+    height: 300px;
+}
+#sidebar h3 {
+	text-align: center;
+}
+#maincontent {
+    position: center;
+    text-align: center;
+    margin: 0 0 0 50px;
+}

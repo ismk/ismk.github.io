@@ -1,3 +1,8 @@
+#name{
+    font-size: 20px;
+    background-color: red;
+}
+
 * {
     color:white;
 }
@@ -20,16 +25,18 @@ body {
     background-color: black;
 }
 p {
-    font-family:'Ubuntu', sans-serif;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
 }
-li {
+.nav li {
     display: inline;
     padding: 0px 10px 0px 10px;
 }
-#name{
-	font-size: 20px;
-	color: blue;
+#middle{
+    background-color: blue;
 }
+
 
 
 
