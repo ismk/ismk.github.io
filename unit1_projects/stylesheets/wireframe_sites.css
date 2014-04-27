@@ -1,0 +1,14 @@
+.verge{
+	background-color: rgba(211,211,211,0.5);
+	width: 1000px;
+	height: 100%;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+}
+body{
+	background: url("../images/skulls.png");
+	background-repeat: repeat;
+}
