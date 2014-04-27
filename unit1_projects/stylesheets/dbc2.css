@@ -1,14 +1,36 @@
+/**{
+	border: 1px solid black;
+}*/
+
 #sidebar {
     float:left;
-    background-color: red;
-    width: 200px;
+    background-color: rgba(255,0,0,0.25);
+    width: 150px;
     height: 300px;
+    border-right: 3px solid black;
+}
+
+#sidebar li{
+	list-style-type: square;
+
 }
 #sidebar h3 {
 	text-align: center;
 }
-#maincontent {
-    position: center;
-    text-align: center;
-    margin: 0 0 0 50px;
+h1,h2{
+	text-align: center;
+}
+#content {
+    margin: 0 50px 0 0;
+    background-color: rgba(211,211,211,0.75);
+    margin-left: 200px;
+    padding: 5px 5px 5px 5px;
+}
+span{
+	font-size: 14px;
+}
+#footer{
+	margin-left: 150px;
+	text-align: center;
+	font-size: 10px;
 }
