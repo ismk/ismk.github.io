@@ -1,0 +1,39 @@
+
+body {
+    background: url("unit1_projects/images/pentagon.png");
+    background-repeat: repeat;
+}
+.name {
+    font-family:'Exo', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    font-size: 50px;
+}
+.name span {
+    font-weight: 800;
+}
+.links {
+    float: left;
+    width:200px;
+    height: 200px;
+    border-right: 3px solid black;
+}
+.links li {
+	list-style-type: none;
+    padding: 0px 0px 0px 0px;
+    margin: 0 0 0 0;
+    font-size: 20px;
+}
+
+.sidebar{
+	float:right;
+	width:200px;
+	height:200px;
+	border-left: 3px solid black; 
+}
+.sidebar li{
+	list-style-type: none;
+	padding: 0px 0px 20px 0px;
+	margin: 0 0 0 0;
+	font-size: 20px;
+}
