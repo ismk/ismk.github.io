@@ -13,7 +13,6 @@ body {
 .name span {
     font-weight: 800;
 }
-/* Glyph, by Harry Roberts */
 		
 hr {
     padding: 0;
@@ -34,23 +33,6 @@ hr {
     margin: 0 0 0 0;
     font-size: 20px;
 }
-
-.sidebar{
-	float:right;
-	border-left: 3px solid black; 
-}
-.sidebar li{
-	list-style-type: none;
-	padding: 0px 0px 0px 0px;
-	margin: 0 0 0 0;
-	font-size: 20px;
-}
-.sidebar a{
-	padding: 0 0 0 20px;
-}
-.sidebar h3{
-	padding-left: 10px;
-}
 .content{
 	position: relative;
 	float:left;
@@ -58,10 +40,8 @@ hr {
 	text-align: justify;
 	padding-left: 10px;
 }
-.footer p{
+.footer {
 	font-size: 12px;
 	text-align: center;
-	bottom: 250px;
-	padding: 0;
-	margin: 0;
+	margin: 200px auto;
 }
