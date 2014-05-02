@@ -22,12 +22,12 @@ hr {
     text-align: center;
     margin: 0 400px 0 400px;
 }
-.links {
+nav{
     float: left;
     padding-right: 10px;
     border-right: 3px solid black;
 }
-.links li {
+nav li {
 	list-style-type: none;
     padding: 0px 0px 0px 0px;
     margin: 0 0 0 0;

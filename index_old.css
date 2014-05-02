@@ -1,7 +1,8 @@
-
+* {-webkit-padding-start: 0px;}
 body {
     background: url("unit1_projects/images/pentagon.png");
     background-repeat: repeat;
+    font-family: 'Droid Sans', sans-serif;
 }
 .name {
     font-family:'Exo', sans-serif;
@@ -12,10 +13,18 @@ body {
 .name span {
     font-weight: 800;
 }
+		
+hr {
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #333;
+    text-align: center;
+    margin: 0 400px 0 400px;
+}
 .links {
     float: left;
-    width:200px;
-    height: 200px;
+    padding-right: 10px;
     border-right: 3px solid black;
 }
 .links li {
@@ -24,16 +33,15 @@ body {
     margin: 0 0 0 0;
     font-size: 20px;
 }
-
-.sidebar{
-	float:right;
-	width:200px;
-	height:200px;
-	border-left: 3px solid black; 
+.content{
+	position: relative;
+	float:left;
+	width: 900px;
+	text-align: justify;
+	padding-left: 10px;
 }
-.sidebar li{
-	list-style-type: none;
-	padding: 0px 0px 20px 0px;
-	margin: 0 0 0 0;
-	font-size: 20px;
+.footer {
+	font-size: 12px;
+	text-align: center;
+	margin: 200px auto;
 }
