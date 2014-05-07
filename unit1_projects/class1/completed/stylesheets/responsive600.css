@@ -1,0 +1,37 @@
+body {
+    min-width: auto;
+}
+header {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
+header nav {
+    clear: both;
+    float: left;
+}
+header nav li {
+    clear: both;
+    line-height: 2em;
+}
+h1 {
+    font-size: 1.8em;
+}
+h2 {
+    padding: 0;
+    margin: 0;
+    font-size: 1.5em;
+    padding-left: 6em;
+    text-align: left;
+}
+#famous img {
+    width: 110%;
+}
+#famous article {
+        vertical-align: middle;
+    clear: both;
+    display: block;
+}
+#organizations {
+    clear: both;
+}
