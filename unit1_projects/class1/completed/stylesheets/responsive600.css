@@ -35,3 +35,15 @@ h2 {
 #organizations {
     clear: both;
 }
+#facts{
+    width: 600px;
+}
+#facts ul{
+    margin: 0;
+    width: 600px;
+}
+#facts ul li{
+    clear: both;
+    width: 600px;
+
+}
