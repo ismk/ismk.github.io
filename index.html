@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="stylesheets/reset.css">
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <title>Ismail Kalimi</title>
 </head>
 
@@ -40,8 +41,13 @@
                     <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
 
                     <div class="body">
-                        <h6>Update!</h6>
-                        <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i></p>
+                        <h6>Update 2</h6>
+                        <p><i>Okay windows people I might have a solution, could you try the windows verison of the code in <a href="#step5">step 5</a> and let me know ?</i>
+                        </p>
+                        <br>
+                        <h6>Update 1</h6>
+                        <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i>
+                        </p>
                         <br>
                         <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
                             <br>
@@ -53,7 +59,7 @@
                             <img style=" width: 100%; height:100%; " src="img/nodesite.png" alt="NodeJS site">
                             <br>2. Make sure its properly installed by opening Terminal and running this command
                             <br>
-                            <br>which node
+                            <br>which node (Windows Users the command is "where node")
                             <br>
                             <br>it should print out the path of nodejs
                             <img style=" width: 100%; height:100%; " src="img/term.png" alt="NodeJS site">
@@ -70,6 +76,9 @@
                             <br>
                             <br>For Linux:
                             <br>{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
+                            <br>
+                            <br>For Windows:
+                            <br>{ "cmd": ["node", "$file"] }
                             <br>
                             <br>
                             <img style="width:100%; height:100%;" src="img/sub4.png" alt="">
