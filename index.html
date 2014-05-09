@@ -31,6 +31,57 @@
         </aside>
 
 
+        <div class="wrapper" id="sublime_js">
+            <article>
+                <img id="images" src="img/sublimejs.jpg" alt="Run JS in Sublime">
+                <div class="preview">
+                    <h2>Run JavaScript Files inside Sublime</h2>
+                    <hr>
+                    <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
+
+                    <div class="body">
+                        <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
+                            <br>
+                            <br>
+                            <i>*This method has been tested on couple of OSX systems, so I am quite sure it works for OSX but Windows and Linux users might have better luck reading this <a href="http://stackoverflow.com/questions/14427520/node-js-build-system-in-sublime-text-2">stackoverflow post</a>, though Marek got it working for linux and I’ll ask him how he did it and I'll update this entry when he gets back to me.</i>
+                            <br>
+                            <br>1. First you’ll have to install Node.js from nodejs.org
+                            <br>
+                            <img style=" width: 100%; height:100%; " src="img/nodesite.png" alt="NodeJS site">
+                            <br>2. Make sure its properly installed by opening Terminal and running this command
+                            <br>
+                            <br>which node
+                            <br>
+                            <br>it should print out the path of nodejs 
+                            <img style=" width: 100%; height:100%; " src="img/term.png" alt="NodeJS site">
+                            <br>3. Awesome, Now open Sublime Text, Goto Tools > Build System > New Build System.
+                            <br>
+                            <img style="width:100%; height:100%;" src="img/sub1.png" alt="">
+                            <br>4. Now Delete all the code in the file.
+                            <br>
+                            <img style="width:100%; height:100%;" src="img/sub3.png" alt="">
+                            <br>5. Now Paste the following code in it:
+                            <br>
+                            <code>{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
+                            </code>
+                            <br>
+                            <img style="width:100%; height:100%;" src="img/sub4.png" alt="">
+                            <br>6. Now Either Goto File > Save or CMD + S
+                            <br>and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
+                            <img style="width:100%; height:100%;" src="img/sub5.png" alt="">
+                            <br>7. Now Make sure NodeJS build system shows up.
+                            <img style="width:100%; height:100%;" src="img/sub7.png" alt="">
+                            <br>8. Now try running the file by Either going to Tools > Build or use CMD+B
+                            <br>Make sure to save the file first and it has to have an extension .js  
+                            <img style="width:100%; height:100%;" src="img/sub6.png" alt="">
+                            <br>
+                            <br>Please leave comments on the Google+ Post. :)
+
+                    </div>
+                </div>
+
+            </article>
+        </div>
         <div class="wrapper" id="idvsclass">
             <article>
                 <img id="images" src="img/idandclass.jpg" alt="CSS Battle: ID vs Class">
