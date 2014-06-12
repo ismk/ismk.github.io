@@ -1,0 +1,52 @@
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    background-color: white;
+    color: black;
+}
+a:active {
+    color: red;
+}
+#sidebar {
+    float:left;
+    background-color: rgba(255, 0, 0, 0.25);
+    width: 180px;
+    height: 300px;
+    border-right: 3px solid black;
+}
+#sidebar li {
+    list-style-type: square;
+}
+#sidebar h3 {
+    text-align: center;
+}
+h1, h2 {
+    text-align: center;
+}
+.content {
+    background-color: rgba(211, 211, 211, 0.75);
+    margin: 0 25px 5px 200px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+}
+#imgcontainer h3{
+	color:white;
+	font-weight: 100;
+	z-index: 1;
+	position: absolute;
+	top: 480px;
+	background-color: rgba(0,0,0,0.5);
+}
+
+span {
+    font-size: 14px;
+}
+#footer {
+    margin-left: 150px;
+    text-align: center;
+    font-size: 10px;
+}

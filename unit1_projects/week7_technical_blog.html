@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="stylesheets/week3_techincal_blog.css">
+    <title>Ismail Kalimi</title>
+</head>
+
+<body>
+    <div class="container">
+        <hgroup>
+            <h3>Week 6: Technical Blog</h3>
+            <h1>SQL Injection</h1>
+        </hgroup>
+        <hr />
+        <section>
+
+            <!-- <img src="images/variables.jpeg" alt="variables" style="clear:both; width:75%; height:75%; padding:10px; display:block; margin:0 auto;"> -->
+
+            <p>SQL Injection is a smart little security exploit, that attackers have found to disrupt a websites database.</p>
+
+            <p>Basically it works by typing out SQL-esque commands in the user entry text boxes that checks for some kind of data validity from the SQL database. Example: When authenticating a user using a login form, if the developer is not on top of his game and directly checks the entry from the SQL Database, then he exposed the security risk by some attacker injecting SQL commands and wrecking havoc on his database.</p>
+
+            <p>The most simplest of the commands that could be used would be DROP TABLE, deleting the whole database of the website, to counter such attacks, different techniques could be implemented, one of the simplest is Prepared Statements or Parameterized Queries.</p>
+
+            <p>Prepared statements ensure that an attacker is not able to change the intent of a query, even if SQL commands are inserted by an attacker. In the safe example below, if an attacker were to enter the userID of tom' or '1'='1, the parameterized query would not be vulnerable and would instead look for a username which literally matched the entire string tom' or '1'='1.</p>
+
+            <p>SQLite uses sqlite3_prepare() to create a statement object</p>
+
+
+        </section>
+
+
+    </div>
+
+</body>
+
+</html>

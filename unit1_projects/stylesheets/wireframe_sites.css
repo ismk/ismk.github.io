@@ -1,0 +1,20 @@
+#goback{
+	float:right;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+}
+}
+.sites{
+	background-color: rgba(211,211,211,0.5);
+	width: 1000px;
+}
+
+img{
+	width: 50%;
+	height: 50%;
+}
+body{
+	background: url("../images/skulls.png");
+	background-repeat: repeat;
+}
