@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="stylesheets/reset.css">
+  <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <title>Ismail Kalimi</title>
+</head>
+
+<body>
+  <header>
+    <h1>Ismail's DBC Homepage</h1>
+  </header>
+  <div class="mainwrap">
+    <aside>
+      <h2>Links</h2>
+      <ul>
+        <li><a href="http://ismk.github.io/unit1_projects/dbc1.html">DBC Page 1</a>
+        </li>
+        <li><a href="http://ismk.github.io/unit1_projects/dbc2.html">SOLO Challenge</a>
+        </li>
+        <li><a href="http://ismk.github.io/unit1_projects/wireframe_sites.html">WireFraming</a>
+        </li>
+        <li><a href="http://ismk.github.io/unit1_projects/week1_technical_blog.html">My Techincal Blog</a>
+        </li>
+        <li><a href="http://ismk.github.io/unit1_projects/week1_cultural_blog.html">My Cultural Blog</a>
+        </li>
+      </ul>
+    </aside>
+
+
+    <div class="wrapper" id="sublime_js">
+      <article>
+        <img id="images" src="img/sublimejs.jpg" alt="Run JS in Sublime">
+        <div class="preview">
+          <h2>Run JavaScript Files inside Sublime</h2>
+          <hr>
+          <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
+
+          <div class="body">
+            <h6>Update 2</h6>
+            <p><i>Okay windows people I might have a solution, could you try the windows verison of the code in <a href="#step5">step 5</a> and let me know ?</i>
+            </p>
+            <br>
+            <h6>Update 1</h6>
+            <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i>
+            </p>
+            <br>
+            <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
+              <br>
+              <br>
+              <i>*This method has been tested on couple of OSX systems, so I am quite sure it works for OSX but Windows and Linux users might have better luck reading this <a href="http://stackoverflow.com/questions/14427520/node-js-build-system-in-sublime-text-2">stackoverflow post</a>, <strike>though Marek got it working for linux and I’ll ask him how he did it and I'll update this entry when he gets back to me.</strike></i>
+              <br>
+              <br>1. First you’ll have to install Node.js from nodejs.org
+              <br>
+              <img style=" width: 100%; height:100%; " src="img/nodesite.png" alt="NodeJS site">
+              <br>2. Make sure its properly installed by opening Terminal and running this command
+              <br>
+              <br>which node (Windows Users the command is "where node")
+              <br>
+              <br>it should print out the path of nodejs
+              <img style=" width: 100%; height:100%; " src="img/term.png" alt="NodeJS site">
+              <br>3. Awesome, Now open Sublime Text, Goto Tools > Build System > New Build System.
+              <br>
+              <img style="width:100%; height:100%;" src="img/sub1.png" alt="">
+              <br>4. Now Delete all the code in the file.
+              <br>
+              <img style="width:100%; height:100%;" src="img/sub3.png" alt="">
+              <br id="step5">5. Now Paste the following code in it:
+              <br>
+              <br>For OSX:
+              <br>{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
+              <br>
+              <br>For Linux:
+              <br>{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
+              <br>
+              <br>For Windows:
+              <br>{ "cmd": ["node", "$file"] }
+              <br>
+              <br>
+              <img style="width:100%; height:100%;" src="img/sub4.png" alt="">
+              <br>6. Now Either Goto File > Save or CMD + S
+              <br>and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
+              <img style="width:100%; height:100%;" src="img/sub5.png" alt="">
+              <br>7. Now Make sure NodeJS build system shows up.
+              <img style="width:100%; height:100%;" src="img/sub7.png" alt="">
+              <br>8. Now try running the file by Either going to Tools > Build or use CMD+B
+              <br>Make sure to save the file first and it has to have an extension .js
+              <img style="width:100%; height:100%;" src="img/sub6.png" alt="">
+              <br>
+              <br>Please leave comments on the Google+ Post. :)
+
+          </div>
+        </div>
+      </article>
+    </div>
+    <div class="wrapper" id="idvsclass">
+      <article>
+        <img id="images" src="img/idandclass.jpg" alt="CSS Battle: ID vs Class">
+        <div class="preview">
+          <h2>CSS Battle: ID vs Class</h2>
+          <hr>
+          <p class="meta">Written by <i>Ismail</i> on May 6<sup>nd</sup> 2014</p>
+
+          <div class="body">
+            <p>Using the basic elements like h1, p and ul will often result in selecting all of that element in the webpage, to specifically select a particular element, we need ID's and Classes. For example p id="paragraph", this will give us the chance to target this paragraph specifically, so that we may manipulate it uniquely to other paragraphs on our page.</p>
+            <br>
+            <p>ID's are unique and each element can have only one ID. Classes on the other hand are NOT unique You can use the same class on multiple elements. You can use multiple classes on the same element. Any styling information that needs to be applied to multiple objects on a page should be done with a class.</p>
+            <br>
+            <p>There is no problem in using classes and ID's together on one element. CSS has no priority between classes and ID's both are same to it and whatever that can be done on ID can be used on a Class.</p>
+
+          </div>
+        </div>
+
+      </article>
+    </div>
+
+    <div class="wrapper">
+      <article>
+        <img id="images" src="img/chrome_sublime.png" alt="Sublime and Chrome Workflow Tips!">
+        <div class="preview">
+          <h2>Sublime and Chrome Workflow Tips!</h2>
+          <hr>
+          <p class="meta">Written by <i>Ismail</i> on May 2<sup>nd</sup> 2014</p>
+
+          <div class="body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, deleniti, quidem, cum aperiam aut laborum laudantium inventore nemo eaque consequuntur tenetur repudiandae ipsam architecto suscipit cumque libero nam nulla perspiciatis?</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, labore quam quis cum asperiores accusantium repellendus quidem quas sunt perferendis at adipisci error corporis necessitatibus fugiat voluptates doloremque provident voluptatum.</p>
+          </div>
+          <a class="continue" href="">Continue</a>
+        </div>
+
+      </article>
+    </div>
+
+    <div class="wrapper" id="github">
+      <article>
+        <img id="images" src="img/github.png" alt="Hierarchy of Folder & Files in GitHub">
+        <div class="preview">
+          <h2>Hierarchy of Folder & Files in GitHub</h2>
+          <hr>
+          <p class="meta">Written by <i>Ismail</i> on May 2<sup>nd</sup> 2014</p>
+
+          <div class="body">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, deleniti, quidem, cum aperiam aut laborum laudantium inventore nemo eaque consequuntur tenetur repudiandae ipsam architecto suscipit cumque libero nam nulla perspiciatis?</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, labore quam quis cum asperiores accusantium repellendus quidem quas sunt perferendis at adipisci error corporis necessitatibus fugiat voluptates doloremque provident voluptatum.</p>
+          </div>
+          <a class="continue" href="">Continue</a>
+        </div>
+
+      </article>
+    </div>
+  </div>
