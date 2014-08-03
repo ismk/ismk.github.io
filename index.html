@@ -1,167 +1,75 @@
 <!doctype html>
-<html lang="en">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Ismk.github.io by ismk</title>
 
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="stylesheets/reset.css">
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css">
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <title>Ismail Kalimi</title>
-</head>
-<body>
-    <header>
-        <h1>Ismail's DBC Homepage</h1>
-    </header>
-
-    <div class="mainwrap">
-        <aside>
-            <h2>Links</h2>
-            <ul>
-                <li><a href="http://ismk.github.io/unit1_projects/dbc1.html">DBC Page 1</a>
-                </li>
-                <li><a href="http://ismk.github.io/unit1_projects/dbc2.html">SOLO Challenge</a>
-                </li>
-                <li><a href="http://ismk.github.io/unit1_projects/wireframe_sites.html">WireFraming</a>
-                </li>
-                <li><a href="http://ismk.github.io/unit1_projects/week1_technical_blog.html">My Techincal Blog</a>
-                </li>
-                <li><a href="http://ismk.github.io/unit1_projects/week1_cultural_blog.html">My Cultural Blog</a>
-                </li>
-            </ul>
-        </aside>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Ismk.github.io</h1>
+        <p>DBC Phase 0 Week 1 Site!</p>
 
 
-        <div class="wrapper" id="sublime_js">
-            <article>
-                <img id="images" src="img/sublimejs.jpg" alt="Run JS in Sublime">
-                <div class="preview">
-                    <h2>Run JavaScript Files inside Sublime</h2>
-                    <hr>
-                    <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
+        <p class="view"><a href="https://github.com/ismk">View My GitHub Profile</a></p>
 
-                    <div class="body">
-                        <h6>Update 2</h6>
-                        <p><i>Okay windows people I might have a solution, could you try the windows verison of the code in <a href="#step5">step 5</a> and let me know ?</i>
-                        </p>
-                        <br>
-                        <h6>Update 1</h6>
-                        <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i>
-                        </p>
-                        <br>
-                        <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
-                            <br>
-                            <br>
-                            <i>*This method has been tested on couple of OSX systems, so I am quite sure it works for OSX but Windows and Linux users might have better luck reading this <a href="http://stackoverflow.com/questions/14427520/node-js-build-system-in-sublime-text-2">stackoverflow post</a>, <strike>though Marek got it working for linux and I’ll ask him how he did it and I'll update this entry when he gets back to me.</strike></i>
-                            <br>
-                            <br>1. First you’ll have to install Node.js from nodejs.org
-                            <br>
-                            <img style=" width: 100%; height:100%; " src="img/nodesite.png" alt="NodeJS site">
-                            <br>2. Make sure its properly installed by opening Terminal and running this command
-                            <br>
-                            <br>which node (Windows Users the command is "where node")
-                            <br>
-                            <br>it should print out the path of nodejs
-                            <img style=" width: 100%; height:100%; " src="img/term.png" alt="NodeJS site">
-                            <br>3. Awesome, Now open Sublime Text, Goto Tools > Build System > New Build System.
-                            <br>
-                            <img style="width:100%; height:100%;" src="img/sub1.png" alt="">
-                            <br>4. Now Delete all the code in the file.
-                            <br>
-                            <img style="width:100%; height:100%;" src="img/sub3.png" alt="">
-                            <br id="step5">5. Now Paste the following code in it:
-                            <br>
-                            <br>For OSX:
-                            <br>{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
-                            <br>
-                            <br>For Linux:
-                            <br>{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
-                            <br>
-                            <br>For Windows:
-                            <br>{ "cmd": ["node", "$file"] }
-                            <br>
-                            <br>
-                            <img style="width:100%; height:100%;" src="img/sub4.png" alt="">
-                            <br>6. Now Either Goto File > Save or CMD + S
-                            <br>and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
-                            <img style="width:100%; height:100%;" src="img/sub5.png" alt="">
-                            <br>7. Now Make sure NodeJS build system shows up.
-                            <img style="width:100%; height:100%;" src="img/sub7.png" alt="">
-                            <br>8. Now try running the file by Either going to Tools > Build or use CMD+B
-                            <br>Make sure to save the file first and it has to have an extension .js
-                            <img style="width:100%; height:100%;" src="img/sub6.png" alt="">
-                            <br>
-                            <br>Please leave comments on the Google+ Post. :)
+      </header>
+      <section>
+        <h3>
+<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
 
-                    </div>
-                </div>
+<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
 
-            </article>
-        </div>
-        <div class="wrapper" id="idvsclass">
-            <article>
-                <img id="images" src="img/idandclass.jpg" alt="CSS Battle: ID vs Class">
-                <div class="preview">
-                    <h2>CSS Battle: ID vs Class</h2>
-                    <hr>
-                    <p class="meta">Written by <i>Ismail</i> on May 6<sup>nd</sup> 2014</p>
+<pre><code>$ cd your_repo_root/repo_name
+$ git fetch origin
+$ git checkout gh-pages
+</code></pre>
 
-                    <div class="body">
-                        <p>Using the basic elements like h1, p and ul will often result in selecting all of that element in the webpage, to specifically select a particular element, we need ID's and Classes. For example p id="paragraph", this will give us the chance to target this paragraph specifically, so that we may manipulate it uniquely to other paragraphs on our page.</p>
-                        <br>
-                        <p>ID's are unique and each element can have only one ID. Classes on the other hand are NOT unique You can use the same class on multiple elements. You can use multiple classes on the same element. Any styling information that needs to be applied to multiple objects on a page should be done with a class.</p>
-                        <br>
-                        <p>There is no problem in using classes and ID's together on one element. CSS has no priority between classes and ID's both are same to it and whatever that can be done on ID can be used on a Class.</p>
+<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
 
-                    </div>
-                </div>
+<h3>
+<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
 
-            </article>
-        </div>
+<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
 
-        <div class="wrapper">
-            <article>
-                <img id="images" src="img/chrome_sublime.png" alt="Sublime and Chrome Workflow Tips!">
-                <div class="preview">
-                    <h2>Sublime and Chrome Workflow Tips!</h2>
-                    <hr>
-                    <p class="meta">Written by <i>Ismail</i> on May 2<sup>nd</sup> 2014</p>
+<h3>
+<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
 
-                    <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, deleniti, quidem, cum aperiam aut laborum laudantium inventore nemo eaque consequuntur tenetur repudiandae ipsam architecto suscipit cumque libero nam nulla perspiciatis?</p>
-                        <br>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, labore quam quis cum asperiores accusantium repellendus quidem quas sunt perferendis at adipisci error corporis necessitatibus fugiat voluptates doloremque provident voluptatum.</p>
-                    </div>
-                    <a class="continue" href="">Continue</a>
-                </div>
+<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
 
-            </article>
-        </div>
+<h3>
+<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-        <div class="wrapper" id="github">
-            <article>
-                <img id="images" src="img/github.png" alt="Hierarchy of Folder & Files in GitHub">
-                <div class="preview">
-                    <h2>Hierarchy of Folder & Files in GitHub</h2>
-                    <hr>
-                    <p class="meta">Written by <i>Ismail</i> on May 2<sup>nd</sup> 2014</p>
+<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
 
-                    <div class="body">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur, deleniti, quidem, cum aperiam aut laborum laudantium inventore nemo eaque consequuntur tenetur repudiandae ipsam architecto suscipit cumque libero nam nulla perspiciatis?</p>
-                        <br>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique, labore quam quis cum asperiores accusantium repellendus quidem quas sunt perferendis at adipisci error corporis necessitatibus fugiat voluptates doloremque provident voluptatum.</p>
-                    </div>
-                    <a class="continue" href="">Continue</a>
-                </div>
+<h3>
+<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
 
-            </article>
-        </div>
+<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+      </section>
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
     </div>
+    <script src="javascripts/scale.fix.js"></script>
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-53475432-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
 
-    <footer>
-        <p>All rights reserved. All materials on this site are copyrighted and may not be used in any way other than personal use unless authorized or stated otherwise by Ismail Kalimi.
-            <br>Reproduction, modification or storage, either digital or analogue are strictly prohibited without written permission.
-            <br>Copyright © 2014 by Ismail Kalimi</p>
-    </footer>
-</body>
-
+  </body>
 </html>
