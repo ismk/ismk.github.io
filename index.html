@@ -1,97 +1,96 @@
 <html>
 
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="chrome=1">
-  <title>Ismk.github.io by ismk</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Ismk.github.io by ismk</title>
 
-  <link rel="stylesheet" href="stylesheets/styles.css">
-  <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  <!--[if lt IE 9]>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 </head>
 
 <body>
-  <div class="wrapper">
-    <header>
-      <h1>Ismail Kalimi</h1>
-      <a href="mailto:ismailkalimi@gmail.com">Email Me!</a>
+    <div class="wrapper">
+        <header>
+            <h1>Ismail Kalimi</h1>
+            <a href="mailto:ismailkalimi@gmail.com">Email Me!</a>
 
-      <p class="view">
+            <p class="view">
 
-        <a href="https://github.com/ismk">View My GitHub Profile</a>
+                <a href="https://github.com/ismk">View My GitHub Profile</a>
+                <a href="resume.html">Résumé</a>
 
-      </p>
+            </p>
 
-    </header>
-    <section>
-      <h3>
-        <a name="designer-templates" class="anchor" href="#designer-templates">
-          <span class="octicon octicon-link"></span>
-        </a>Run JavaScript Files inside Sublime</h3>
-      <img id="images" src="img/sublimejs.jpg" alt="Run JS in Sublime">
-      <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
+        </header>
+        <section>
+            <h3>
+                <a name="designer-templates" class="anchor" href="#designer-templates">
+                    <span class="octicon octicon-link"></span>
+                </a>Run JavaScript Files inside Sublime</h3>
+            <img id="images" src="img/sublimejs.jpg" alt="Run JS in Sublime">
+            <p class="meta">Written by <i>Ismail</i> on May 9<sup>nd</sup> 2014</p>
 
 
-      <div class="body">
-        <h6>Update 2</h6>
-        <p><i>Okay windows people I might have a solution, could you try the windows verison of the code in <a href="#step5">step 5</a> and let me know ?</i>
-        </p>
-        <br>
-        <h6>Update 1</h6>
-        <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i>
-        </p>
-        <br>
-        <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
-          <br>
-          <br>
-          <i>*This method has been tested on couple of OSX systems, so I am quite sure it works for OSX but Windows and Linux users might have better luck reading this <a href="http://stackoverflow.com/questions/14427520/node-js-build-system-in-sublime-text-2">stackoverflow post</a>, <strike>though Marek got it working for linux and I’ll ask him how he did it and I'll update this entry when he gets back to me.</strike></i>
-          <br>
-          <br>1. First you’ll have to install Node.js from nodejs.org
-          <br>
-          <img style="" src="img/nodesite.png" alt="NodeJS site">
-          <br>2. Make sure its properly installed by opening Terminal and running this command
-          <br>
-          <br>which node (Windows Users the command is "where node")
-          <br>
-          <br>it should print out the path of nodejs
-          <img style="" src="img/term.png" alt="NodeJS site">
-          <br>3. Awesome, Now open Sublime Text, Goto Tools > Build System > New Build System.
-          <br>
-          <img style="" src="img/sub1.png" alt="">
-          <br>4. Now Delete all the code in the file.
-          <br>
-          <img style="" src="img/sub3.png" alt="">
-          <br id="step5">5. Now Paste the following code in it:
-          <br>For OSX:
-          <pre><code>{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
+            <div class="body">
+                <h6>Update 2</h6>
+                <p><i>Okay windows people I might have a solution, could you try the windows verison of the code in <a href="#step5">step 5</a> and let me know ?</i>
+                </p>
+                <br>
+                <h6>Update 1</h6>
+                <p><i>**Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out <a href="#step5">below!</a></i>
+                </p>
+                <br>
+                <p>By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
+                    <br>
+                    <br>
+                    <i>*This method has been tested on couple of OSX systems, so I am quite sure it works for OSX but Windows and Linux users might have better luck reading this <a href="http://stackoverflow.com/questions/14427520/node-js-build-system-in-sublime-text-2">stackoverflow post</a>, <strike>though Marek got it working for linux and I’ll ask him how he did it and I'll update this entry when he gets back to me.</strike></i>
+                    <br>
+                    <br>1. First you’ll have to install Node.js from nodejs.org
+                    <br>
+                    <img style="" src="img/nodesite.png" alt="NodeJS site">
+                    <br>2. Make sure its properly installed by opening Terminal and running this command
+                    <br>
+                    <br>which node (Windows Users the command is "where node")
+                    <br>
+                    <br>it should print out the path of nodejs
+                    <img style="" src="img/term.png" alt="NodeJS site">
+                    <br>3. Awesome, Now open Sublime Text, Goto Tools > Build System > New Build System.
+                    <br>
+                    <img style="" src="img/sub1.png" alt="">
+                    <br>4. Now Delete all the code in the file.
+                    <br>
+                    <img style="" src="img/sub3.png" alt="">
+                    <br id="step5">5. Now Paste the following code in it:
+                    <br>For OSX:
+                    <pre><code>{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
           </code></pre>
-          For Linux:
-          <pre><code>{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
+                    For Linux:
+                    <pre><code>{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
           </code></pre>
-          For Windows:
-          <pre><code>{ "cmd": ["node", "$file"] }
+                    For Windows:
+                    <pre><code>{ "cmd": ["node", "$file"] }
           </code></pre>
 
-          <br>
-          <br>
-          <img style="" src="img/sub4.png" alt="">
-          <br>6. Now Either Goto File > Save or CMD + S
-          <br>and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
-          <img style="" src="img/sub5.png" alt="">
-          <br>7. Now Make sure NodeJS build system shows up.
-          <img style="" src="img/sub7.png" alt="">
-          <br>8. Now try running the file by Either going to Tools > Build or use CMD+B
-          <br>Make sure to save the file first and it has to have an extension .js
-          <img style="" src="img/sub6.png" alt="">
-          <br>
-          <br>Please leave comments on the Google+ Post. :)
+                    <br>
+                    <br>
+                    <img style="" src="img/sub4.png" alt="">
+                    <br>6. Now Either Goto File > Save or CMD + S
+                    <br>and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
+                    <img style="" src="img/sub5.png" alt="">
+                    <br>7. Now Make sure NodeJS build system shows up.
+                    <img style="" src="img/sub7.png" alt="">
+                    <br>8. Now try running the file by Either going to Tools > Build or use CMD+B
+                    <br>Make sure to save the file first and it has to have an extension .js
+                    <img style="" src="img/sub6.png" alt="">
+                    <br>
+                    <br>Please leave comments on the Google+ Post. :)
 
-      </div>
-
-
+            </div>
 
 
 
@@ -99,7 +98,9 @@
 
 
 
-      <!-- 
+
+
+            <!--
       <h3>
         <a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages">
           <span class="octicon octicon-link"></span>
@@ -145,25 +146,25 @@ $ git checkout gh-pages
       <p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p> -->
 
 
-    </section>
-    <footer>
-      <p>
-        <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
-        </small>
-      </p>
-    </footer>
-  </div>
-  <script src="javascripts/scale.fix.js"></script>
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script>
-  <script type="text/javascript">
-  try {
-    var pageTracker = _gat._getTracker("UA-53475432-1");
-    pageTracker._trackPageview();
-  } catch (err) {}
-  </script>
+        </section>
+        <footer>
+            <p>
+                <small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+                </small>
+            </p>
+        </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try {
+        var pageTracker = _gat._getTracker("UA-53475432-1");
+        pageTracker._trackPageview();
+    } catch (err) {}
+    </script>
 
 </body>
 
