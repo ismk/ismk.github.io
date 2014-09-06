@@ -3,8 +3,8 @@ markdown:         redcarpet
 pygments:         true
 
 # Permalinks
-permalink:        pretty
-
+# permalink:        pretty
+permalink: "/:title"
 # Setup
 title:            Ismail Kalimi
 tagline:
