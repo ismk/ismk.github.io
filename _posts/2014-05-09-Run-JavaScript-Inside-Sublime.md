@@ -25,4 +25,4 @@ Okay so Marek got back to me and show me how to make this work in Linux you just
 7. Now Make sure NodeJS build system shows up.
 ![](../imgs/sub7.png)
 8. Now try running the file by Either going to Tools > Build or use CMD+B Make sure to save the file first and it has to have an extension .js
-![](../imgs/sub6.png)Please leave comments on the Google+ Post. :)
+![](../imgs/sub6.png)
