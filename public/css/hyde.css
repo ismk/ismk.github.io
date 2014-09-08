@@ -53,10 +53,11 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, .5);
+  background-color: #0000;
   /*background-color: #202020;*/
-  background-image: url(../../imgs/sidebar.jpg);
+  /*  background-image: url(../../imgs/sidebar.jpg);
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 50%;*/
 }
 @media (min-width: 48rem) {
   .sidebar {
@@ -80,7 +81,7 @@ html {
   margin-top: 0;
   font-family: 'Ubuntu', sans-serif;
   font-size: 3.25rem;
-  -webkit-text-stroke: 0.75px white;
+  /*-webkit-text-stroke: 0.75px white;*/
 }
 /* Sidebar nav */
 
@@ -233,6 +234,5 @@ a.sidebar-nav-item:hover, a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 .sb-icons li {
-  display: inline-block
-;
+  display: inline-block;
 }
