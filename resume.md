@@ -74,53 +74,37 @@ Learned technologies like Mechanize and Nokogiri to parse and scrape data from t
 
 Over 1000+ hours of software development training, including pair programming and developed web applications
 
-• Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github.
-
-• Used Git and Github for distributed workflow across project teams
-
-• Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara)
-
-• Integrated object-oriented (OO) design patterns and concepts
-
-• Model-View-Controller (MVC) patterns in applications
+* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github.
+* Used Git and Github for distributed workflow across project teams
+* Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara)
+* Integrated object-oriented (OO) design patterns and concepts
+* Model-View-Controller (MVC) patterns in applications
 
 ####Architect
 *Jun ‘13 – Mar ‘14*
 
 ######DHE Consultants
 
-• Collaborated with team in designing villas,housing complexes, town buildings and warehouses
-
-• Supervised CAD/CAM technologies used in designing and production of projects
-
-• Part of the production team prepared final working drawings and construction documents
-
-• Responsible for the Production of Contract Documents, maintaining project scopes and schedules
-
-• Worked on representational Views,3D renderings, presentations, and environmental graphics
+* Collaborated with team in designing villas,housing complexes, town buildings and warehouses
+* Supervised CAD/CAM technologies used in designing and production of projects
+* Part of the production team prepared final working drawings and construction documents
+* Responsible for the Production of Contract Documents, maintaining project scopes and schedules
+* Worked on representational Views,3D renderings, presentations, and environmental graphics
 
 ####System & Facilities Administrator
 *Jun ‘12 – Jun ‘13*
 
 ######Al Rawi Group
 
-• Supervision & Technical Support of CAD/CAM Technologies in the company
-
-• Write, design and endorse all documentations, carry out implementation pertaining to the authentication of ISO 9001:2000
-
-• Organize, monitor performance and maintain staff policies
-
-• Initiate, write and authorize new policies, procedures and administration guidelines
-
-• Participate and coordinate with senior management regarding the development, implementation and improvement of the overall company business plan
-
-• Evaluate overall effectiveness of office, programs and services and makes improvements
-
-• Ensure the proper implementation of quality procedures and seek to achieve department's objectives
-
-• In charge of company logo rebranding, website design and copywriting
-
-• Hold an internal title as Head of ISO Audit Committee, responsible for evaluating the reliability and integrity of the information and the efficient and effective use of resources, procedures and forms
+* Supervision & Technical Support of CAD/CAM Technologies in the company
+* Write, design and endorse all documentations, carry out implementation pertaining to the authentication of ISO 9001:2000
+* Organize, monitor performance and maintain staff policies
+* Initiate, write and authorize new policies, procedures and administration guidelines
+* Participate and coordinate with senior management regarding the development, implementation and improvement of the overall company business plan
+* Evaluate overall effectiveness of office, programs and services and makes improvements
+* Ensure the proper implementation of quality procedures and seek to achieve department's objectives
+* In charge of company logo rebranding, website design and copywriting
+* Hold an internal title as Head of ISO Audit Committee, responsible for evaluating the reliability and integrity of the information and the efficient and effective use of resources, procedures and forms
 
 
 ####Architectural Assistant
@@ -130,15 +114,11 @@ Over 1000+ hours of software development training, including pair programming an
 
 Worked as Design Intern at the Head Office in Abu-Dhabi and assisted the Senior Architect at the Site of Millennium Resort in Al-Ain, UAE
 
-• Responsible for the production of all phases of documentation of MEP, Alarms, and Structural Systems
-
-• Worked with different design departments,( interior fit-out and structural ) to maintain a single set of documents
-
-• Researched code and permitting requirements and integrated them into drawings
-
-• Developed Site design and preliminary grading plans
-
-• Scheduled regular site visits to examine and assess the quality of work
+* Responsible for the production of all phases of documentation of MEP, Alarms, and Structural Systems
+* Worked with different design departments,( interior fit-out and structural ) to maintain a single set of documents
+* Researched code and permitting requirements and integrated them into drawings
+* Developed Site design and preliminary grading plans
+* Scheduled regular site visits to examine and assess the quality of work
 
 ***
 ###EDUCATION_
@@ -147,16 +127,21 @@ Worked as Design Intern at the Head Office in Abu-Dhabi and assisted the Senior 
 
 1000+ hours of software development training, including pair programming and developed web applications 
 
-• Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github 
+* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github 
+* Used Git and Github for distributed workflow across project teams 
+* Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara) 
+* Integrated object-oriented (OO) design patterns and concepts 
+* Model-View-Controller (MVC) patterns in applications
 
-• Used Git and Github for distributed workflow across project teams 
 
-• Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara) 
+####Coursera
+*Sep 13 - Present*
 
-• Integrated object-oriented (OO) design patterns and concepts 
+I am active student in various MOOCS on Coursera, with subjects related to Computer Science
 
-• Model-View-Controller (MVC) patterns in applications
-
+* Creative Programming for Digital Media & Mobile Apps University of London
+* Interactive Programming in Python
+* Algorithms, Part I (On Going)
 
 
 ####Bachelor in Architecture
