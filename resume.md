@@ -13,6 +13,8 @@ Chicago, IL
 [Github](http://github.com/ismk)
 
 [LinkedIn](http://linkedin.com/in/ismailkalimi)
+
+
 ***
 ###OBJECTIVE_
 
@@ -28,27 +30,59 @@ To obtain full time employment as a Junior Developer in a position that will all
     Ruby on Rails, AJAX, jQuery, AngularJS, NodeJS
 
     Testing:
-    Rspec, Jasmine , Capybara
+    Rspec, Jasmine, Capybara
 
     Databases:
     SQL (Postgres, SQLite)
 
     Tools:
-    RegEx, MemcacheD, Redis, Sidekiq
+    RegEx, MemcacheD, Nokogiri, Mechanize, Redis, Sidekiq
+
+    Designing/Visualization:
+    Adobe Photoshop, Adobe Illustrator, Sketch
+    Autodesk 3Ds Max, V-Ray, Rhinoceros 3D, Autodesk Maya
 
 ***
 ###PROJECTS_
 
-#####Project Pothole
+#####[Project Pothole](http://project-pothole.herokuapp.com/)
+<img src="/imgs/projectpothole.jpeg" class="prjimg">
+[Source Code](https://github.com/ismk/chipot)
+
+*Timeline: 5 days*
 
 Built a platform for users to quickly look and report potholes to the City of Chicago, Data about city potholes are pulled in real-time using Open Data of Chicago and various API’s, The project was built as to provide a fast User Experience for optimum feedback from the residents of Chicago, Application was built on Ruby on Rails as backend and AngularJS, AJAX and jQuery on the front with additional statistics and graph built on D3js.
 
-#####Historical Wiki
+#####[Historical Wiki](http://historic-wiki.herokuapp.com/)
+<img src="/imgs/historicwiki.jpeg" class="prjimg">
+[Source Code](https://github.com/ismk/Historical_Wiki)
 
-Created a site where users could create posts, focused on historical events, which would visually represented on a timeline.
+*Timeline: 4 days*
+
+Created a site where users could create posts, focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js.
+
+Learned technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia.)
 
 ***
 ###EXPERIENCE_
+
+
+####Junior Software Developer in Training
+*Jun '14 – Aug '14*
+
+######Dev Bootcamp
+
+Over 1000+ hours of software development training, including pair programming and developed web applications
+
+• Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github.
+
+• Used Git and Github for distributed workflow across project teams
+
+• Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara)
+
+• Integrated object-oriented (OO) design patterns and concepts
+
+• Model-View-Controller (MVC) patterns in applications
 
 ####Architect
 *Jun ‘13 – Mar ‘14*

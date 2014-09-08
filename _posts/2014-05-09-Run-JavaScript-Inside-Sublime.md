@@ -3,9 +3,11 @@ layout: post
 title: Run JavaScript inside Sublime
 ---
 
-######Update 2 **Okay windows people I might have a solution, could you try the windows verison of the code in step 5 and let me know ?**
+######Update 2
+Okay windows people I might have a solution, could you try the windows verison of the code in step 5 and let me know ?
 
-######Update 1 **Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out below! By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
+######Update 1
+Okay so Marek got back to me and show me how to make this work in Linux you just have to change the code a little bit in step 5. Go check it out below! By scouring the web and reading some stackoverflow posts I have found a way to run JavaScript files inside sublime, that way one doesn’t have keep going back and forth between saving the .js file in sublime text and opening in it terminal and running it there.
 
 
 1. First you’ll have to install Node.js from nodejs.org
