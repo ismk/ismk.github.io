@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Arrays Vs Hashes
+permalink: Arrays-Vs-Hashes
 ---
 
 While both arrays and hashes can be used to store values, hashes are bit rigid in the terms of indexing, that is it is structured in a way to have a ordered list, each value in a hash has to have a corresponding key to it, and in a hash a key cannot be repeated.

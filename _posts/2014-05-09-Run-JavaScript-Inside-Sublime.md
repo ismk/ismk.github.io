@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Run JavaScript inside Sublime
+permalink: Run-JavaScript-inside-Sublime
 ---
 
 ######Update 2

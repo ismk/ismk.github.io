@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Variable Scope
+permalink: Variable-Scope
 ---
 
 ##What is Scope?
