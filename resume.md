@@ -72,7 +72,14 @@ Learned technologies like Mechanize and Nokogiri to parse and scrape data from t
 
 ######Dev Bootcamp
 
-The program is 19 weeks of intensive training in professional web development in Ruby on Rails, Sinatra, HTML5, CSS, Test Driven Development, JavaScript (AJAX, jQuery, CoffeeScript), Git and source control, Heroku, and more.
+1000+ hours of software development training, including pair programming and developed web applications 
+
+* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github 
+* Used Git and Github for distributed workflow across project teams 
+* Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara) 
+* Integrated object-oriented (OO) design patterns and concepts 
+* Model-View-Controller (MVC) patterns in applications
+
 
 ####Architect
 *Jun ‘13 – Mar ‘14*
@@ -119,14 +126,7 @@ Worked as Design Intern at the Head Office in Abu-Dhabi and assisted the Senior 
 ####Dev Bootcamp
 *Jun ’14 - Aug ‘14*
 
-1000+ hours of software development training, including pair programming and developed web applications 
-
-* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github 
-* Used Git and Github for distributed workflow across project teams 
-* Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara) 
-* Integrated object-oriented (OO) design patterns and concepts 
-* Model-View-Controller (MVC) patterns in applications
-
+The program is 19 weeks of intensive training in professional web development in Ruby on Rails, Sinatra, HTML5, CSS, Test Driven Development, JavaScript (AJAX, jQuery, CoffeeScript), Git and source control, Heroku, and more.
 
 ####Coursera
 *Sep 13 - Present*
