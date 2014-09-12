@@ -83,6 +83,11 @@ html {
   font-size: 3.25rem;
   /*-webkit-text-stroke: 0.75px white;*/
 }
+
+.sidebar-about a:hover{
+  text-decoration: none;
+}
+
 /* Sidebar nav */
 
 .sidebar-nav {
