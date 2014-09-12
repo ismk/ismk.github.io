@@ -10,4 +10,4 @@ I have always looked on to ways to improve my workflow and productivity, though 
 Here are some of the plugings that I use daily
 
 [Emmet](http://emmet.io/)
-![emmet](http://f.cl.ly/items/24402y131i0s2l1E1s43/Screen%20Recording%202014-09-10%20at%2019.41.gif)
+![emmet](/imgs/emmet.gif)
