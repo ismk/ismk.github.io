@@ -11,3 +11,8 @@ Here are some of the plugings that I use daily
 
 [Emmet](http://emmet.io/)
 ![emmet](/imgs/emmet.gif)
+
+---
+
+Multiple Selections Rule!
+![multiple selection](/imgs/mult_select.gif)

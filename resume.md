@@ -53,6 +53,8 @@ To obtain full time employment as a Junior Developer in a position that will all
 
 Built a platform for users to quickly look and report potholes to the City of Chicago, Data about city potholes are pulled in real-time using Open Data of Chicago and various API’s, The project was built as to provide a fast User Experience for optimum feedback from the residents of Chicago, Application was built on Ruby on Rails as backend and AngularJS, AJAX and jQuery on the front with additional statistics and graph built on D3js.
 
+After working together to get up the site running with google map integration my primarily role on this project shifted to parse and scrape the data from the City of Data API and make it accessible to the client from the server, I also took up the charge to optimize page load times and callback functions for the data, achieved those results using Dalli Cache and making the data JSON friendly.
+
 #####[Historical Wiki](http://historic-wiki.herokuapp.com/)
 <img src="/imgs/historicwiki.jpeg" class="prjimg">
 [Source Code](https://github.com/ismk/Historical_Wiki)
@@ -61,7 +63,7 @@ Built a platform for users to quickly look and report potholes to the City of Ch
 
 Created a site where users could create posts, focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js.
 
-Learned technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia.)
+Subsequentlyn after the basic rails skeleton up and running, I implented technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia.)
 
 ***
 ###EXPERIENCE_
