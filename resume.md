@@ -8,12 +8,12 @@ Chicago, IL
 
 *(630)-303-6939*
 
-[Email Me](mailto:ismail@kalimi.net)
 
-[Github](http://github.com/ismk)
-
-[LinkedIn](http://linkedin.com/in/ismailkalimi)
-
+<ul id="resume-list">
+<li><a href="http://github.com/ismk"><img src="../imgs/github copy.png" alt="github" align="Bottom">Github</a></li>
+<li><a href="http://linkedin.com/in/ismailkalimi"><img src="../imgs/linkedin copy.png" alt="linkedin">LinkedIn</a></li>
+<li><a href="mailto:ismail@kalimi.net"><img src="../imgs/email copy.png" alt="email">Email Me!</a></li>
+</ul>
 
 ***
 ###OBJECTIVE_
@@ -88,8 +88,8 @@ Subsequently after getting the basic rails skeleton up and running, I implented 
 
 ######DHE Consultants
 
-* Collaborated with team in designing villas,housing complexes, town buildings and warehouses
 * Supervised CAD/CAM technologies used in designing and production of projects
+* Collaborated with team in designing villas,housing complexes, town buildings and warehouses
 * Part of the production team prepared final working drawings and construction documents
 * Responsible for the Production of Contract Documents, maintaining project scopes and schedules
 * Worked on representational Views,3D renderings, presentations, and environmental graphics
