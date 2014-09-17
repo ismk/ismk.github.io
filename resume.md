@@ -63,7 +63,7 @@ After working together to get up the site running with google map integration my
 
 Created a site where users could create posts, focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js.
 
-Subsequentlyn after the basic rails skeleton up and running, I implented technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia.)
+Subsequently after the basic rails skeleton up and running, I implented technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia.)
 
 ***
 ###EXPERIENCE_
