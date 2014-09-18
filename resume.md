@@ -24,7 +24,8 @@ To obtain full time employment as a Junior Developer in a position that will all
 ###SKILLS_
 
     Languages:
-    Ruby{Proficient}, JavaScript{Proficient}, Python{Proficient}, Java{Prior Experience}, Processing{Prior Experience}, HTML, CSS
+    Ruby{Proficient}, JavaScript{Proficient}, Python{Proficient},
+    Java{Prior Experience}, Processing{Prior Experience}, HTML, CSS
 
     Frameworks:
     Ruby on Rails, AJAX, jQuery, AngularJS, NodeJS
@@ -43,7 +44,7 @@ To obtain full time employment as a Junior Developer in a position that will all
     Autodesk 3Ds Max, V-Ray, Rhinoceros 3D, Autodesk Maya
 
 ***
-<a href="#" id="projects"><h6>PROJECTS_</h6></a>
+<a href="#" id="projects"><h3>PROJECTS_</h3></a>
 
 #####[Project Pothole](http://project-pothole.herokuapp.com/)
 <img src="/imgs/projectpothole.jpeg" class="prjimg">
