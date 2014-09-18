@@ -10,8 +10,9 @@ I scripted in applications that focused on parametric solutions on various proje
 Still, I’m very much in love with designing and hope to transition from a Built-Environment Architect to a Software Architect.
 
 Some fun facts about me:
-Avid fan of speedcubing!
-Science fiction buff
+
+* Avid fan of speedcubing!
+* Science fiction buff
 
 Have questions ? Feel free to reach me on ismail@kalimi.net
 

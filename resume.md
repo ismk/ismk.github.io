@@ -2,7 +2,7 @@
 layout: page
 title: Résumé
 ---
-
+<a href="/public/ismail_kalimi_resume.pdf" id="resume-download"><h7>Download Résumé</h7></a>
 #Ismail Kalimi
 Chicago, IL
 
