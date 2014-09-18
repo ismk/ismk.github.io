@@ -18,13 +18,13 @@ Chicago, IL
 ***
 ###OBJECTIVE_
 
-To obtain full time employment as a Junior Developer in a position that will allow me to utilize my knowledge in software development, to constantly upgrade my knowledge and skills and make a difference in a team with my  work.
+To obtain full time employment as a Junior Developer in a position that will allow me to utilize my knowledge in software development, to constantly upgrade my knowledge and skills and make a difference in a team with my work.
 
 ***
 ###SKILLS_
 
     Languages:
-    Ruby, JavaScript, Python, Java, Processing, HTML, CSS
+    Ruby{Proficient}, JavaScript{Proficient}, Python{Proficient}, Java{Prior Experience}, Processing{Prior Experience}, HTML, CSS
 
     Frameworks:
     Ruby on Rails, AJAX, jQuery, AngularJS, NodeJS
@@ -94,21 +94,17 @@ Subsequently after getting the basic rails skeleton up and running, I implented 
 * Responsible for the Production of Contract Documents, maintaining project scopes and schedules
 * Worked on representational Views,3D renderings, presentations, and environmental graphics
 
-####System & Facilities Administrator
+####Technical & Systems Administrator
 *Jun ‘12 – Jun ‘13*
 
 ######Al Rawi Group
 
-* Supervision & Technical Support of CAD/CAM Technologies in the company
-* Write, design and endorse all documentations, carry out implementation pertaining to the authentication of ISO 9001:2000
-* Organize, monitor performance and maintain staff policies
-* Initiate, write and authorize new policies, procedures and administration guidelines
-* Participate and coordinate with senior management regarding the development, implementation and improvement of the overall company business plan
-* Evaluate overall effectiveness of office, programs and services and makes improvements
-* Ensure the proper implementation of quality procedures and seek to achieve department's objectives
+* Principal head of CAD/CAM Technologies in the company
+* Deployed and implemented cloud based database for engineering drawings.
+* Wrote and designed documentation for project submittals
+* Organized and monitored performance evaluations of employees and staff
+* Initiated and authorized new policies, procedures and administration guidelines for smoother workflow
 * In charge of company logo rebranding, website design and copywriting
-* Hold an internal title as Head of ISO Audit Committee, responsible for evaluating the reliability and integrity of the information and the efficient and effective use of resources, procedures and forms
-
 
 ####Architectural Assistant
 *Jul ‘11 – Nov ‘11*
