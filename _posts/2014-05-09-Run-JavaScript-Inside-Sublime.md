@@ -19,7 +19,23 @@ Okay so Marek got back to me and show me how to make this work in Linux you just
 ![](../imgs/sub1.png)
 4. Now Delete all the code in the file.
 ![](../imgs/sub3.png)
-5. Now Paste the following code in it: For OSX: { "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" } For Linux: { "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" } For Windows: { "cmd": ["node", "$file"] }
+5. Now Paste the following code in it:
+
+For OSX:
+```
+{ "cmd": ["/usr/local/bin/node", "$file"], "selector": "source.js" }
+```
+
+For Linux:
+```
+{ "cmd": ["/usr/bin/nodejs", "$file"], "selector": "*.js" }
+```
+
+For Windows:
+```
+{ "cmd": ["node", "$file"] }
+```
+
 ![](../imgs/sub4.png)
 6. Now Either Goto File > Save or CMD + S and on the file save dialog DO NOT CHANGE THE USER Folder, and rename the untitled.sublime-build to NodeJS.sublime-build.
 ![](../imgs/sub5.png)

@@ -52,9 +52,9 @@ To obtain full time employment as a Junior Developer in a position that will all
 
 *Timeline: 5 days*
 
-Built a platform for users to quickly look and report potholes to the City of Chicago, Data about city potholes are pulled in real-time using Open Data of Chicago and various API’s, The project was built as to provide a fast User Experience for optimum feedback from the residents of Chicago, Application was built on Ruby on Rails as backend and AngularJS, AJAX and jQuery on the front with additional statistics and graph built on D3js
+Built a platform for users to quickly look and report potholes to the City of Chicago, data about city potholes are pulled in real-time using Open Data of Chicago and various API’s, The project was built as to provide a fast User Experience for optimum feedback from the residents of Chicago, Application was built on Ruby on Rails as backend and AngularJS, AJAX and jQuery on the front with additional statistics and graph built on D3js
 
-After working together to get up the site running with google map integration my primarily role on this project shifted to parse and scrape the data from the City of Data API and make it accessible to the client from the server, I also took up the charge to optimize page load times and callback functions for the data, achieved those results using Dalli Cache and making the data JSON friendly
+After working together to get up the site running with google map integration my primarily role on this project shifted to parse and scrape the data from the City of Chicago API and make it accessible to the client from the server, I also took up the charge to optimize page load times and callback functions for the data, achieved those results using Dalli Cache and making the data JSON friendly
 
 #####[Historical Wiki](http://historic-wiki.herokuapp.com/)
 <img src="/imgs/historicwiki.jpeg" class="prjimg">
@@ -62,9 +62,9 @@ After working together to get up the site running with google map integration my
 
 *Timeline: 4 days*
 
-Created a site where users could create posts, focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js
+Created a site where users could create posts focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js
 
-Subsequently after getting the basic rails skeleton up and running, I implented technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia) and add it to our database
+Subsequently after getting the basic rails skeleton up and running, I implemented technologies like Mechanize and Nokogiri to parse and scrape data from the web (specifically wikipedia) and add it to our database
 
 ***
 ###EXPERIENCE_
@@ -77,7 +77,7 @@ Subsequently after getting the basic rails skeleton up and running, I implented 
 
 1000+ hours of software development training, including pair programming and developed web applications 
 
-* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS and Version Control through Github 
+* Web development using Ruby on Rails, Sinatra, Node.Js, JavaScript, jQuery, AJAX, HTML5/CSS3, ActiveRecord, SQL(PostgreSQL, SQLite) and deployment through Heroku and Amazon Web Services (AWS) and Version Control through Github 
 * Used Git and Github for distributed workflow across project teams 
 * Agile Software Methodology, Test-Driven Development / Behavior-Driven Development (TDD/BDD) training and best practices (RSpec, Jasmine, Capybara) 
 * Integrated object-oriented (OO) design patterns and concepts 
