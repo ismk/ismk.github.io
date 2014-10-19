@@ -69,6 +69,16 @@ Subsequently after getting the basic rails skeleton up and running, I implemente
 ***
 ###EXPERIENCE_
 
+####Phase 0 Guide Instructor
+*Sep '14 – Present*
+
+######Dev Bootcamp
+
+* Teaching various topics including workflow with Git and Github, Basic overview of HTML and CSS, Introduction to Ruby with Algorithms and Object Oriented Design and working with SQL and Databases
+* Emphasizing cultural aspects of pair programming
+* Scheduling Guided Pairing Sessions, Office Hours and Tutoring Sessions for students
+* Assessing students on assignments, exercises and conducting Code Reviews addressing their strengths and weaknesses
+
 
 ####Junior Software Developer in Training
 *Jun '14 – Aug '14*
