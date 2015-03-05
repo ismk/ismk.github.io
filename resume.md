@@ -69,7 +69,7 @@ Subsequently after getting the basic rails skeleton up and running, I implemente
 ***
 ###EXPERIENCE_
 
-####Software Enginner Intern
+####Software Engineering Intern
 *Dec '14 – Present*
 
 ######Context Media Inc
