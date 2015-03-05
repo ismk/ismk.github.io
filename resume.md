@@ -69,6 +69,16 @@ Subsequently after getting the basic rails skeleton up and running, I implemente
 ***
 ###EXPERIENCE_
 
+####Software Enginner Intern
+*Dec '14 – Present*
+
+######Context Media Inc
+
+* Working on HTML, CSS, JS, Flash (SWF) assets on our Android Platform
+* Automating numerous tasks using Ruby scripts delivering data to Amazon Web Services
+* Deploying, implementing various features and bug fixes on Android applications
+
+
 ####Phase 0 Guide Instructor
 *Sep '14 – Present*
 
