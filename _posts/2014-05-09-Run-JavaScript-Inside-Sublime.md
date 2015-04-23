@@ -2,6 +2,7 @@
 layout: post
 title: Run JavaScript inside Sublime
 permalink: Run-JavaScript-inside-Sublime
+comments: true
 ---
 
 ######Update 2
