@@ -1,6 +1,8 @@
 $(function(){
   console.log("Hello World!");
 
+  TweenMax.from($('#profile-pic'), 1, {css:{"opacity":"0"}});
+
   onload_anim();
 
   $('.sidebar-nav-item').hover(function(){
