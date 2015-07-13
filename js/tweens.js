@@ -11,4 +11,12 @@ $(function(){
   },function(){
     TweenMax.to(this, 1, {css:{"position":"relative","left":"0"}});
   });
+
+  $('.sb-icons li').hover(function(){
+    TweenMax.to(this, 0.2, {css:{"position":"relative","top":"-10px"}});
+  },function(){
+    TweenMax.to(this, 0.2, {css:{"position":"relative","top":"0"}});
+  });
+
 });
+
