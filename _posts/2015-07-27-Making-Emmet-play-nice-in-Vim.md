@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making-Emmet-play-nice-in-Vim
+title: Making Emmet play nice in Vim
 permalink: Making-Emmet-play-nice-in-Vim
 comments: true
 ---
