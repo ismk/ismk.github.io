@@ -70,3 +70,26 @@ h6 {
 #resume-download{
   float:right;
 }
+
+body {
+    -webkit-transition: all 0.5s ease-out;
+    -moz-transition:    all 0.5s ease-out;
+    -o-transition:      all 0.5s ease-out;
+    transition:         all 0.5s ease-out;
+}
+
+body.dark {
+    background-color: #000;
+    color: white;
+}
+
+.post-teaser__title.dark {
+    color: white;
+}
+
+.logo.dark {
+    color: white;
+}
+
+
+
