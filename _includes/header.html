@@ -1,0 +1,26 @@
+<header class="header">
+    <div class="navigation">
+        <a href="/" class="logo">{{ site.title }}</a>
+
+        <ul class="menu">
+            <li class="menu__entry"><a href="{{ '/about' | prepend: site.baseurl }}">About</a></li>
+            <li class="menu__entry"><a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a></li>
+            <li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Blog</a></li>
+        </ul>
+    </div>
+
+    <ul class="social-links">
+        {% if site.author.github %}
+            <a href="https://github.com/{{ site.author.github }}" class="social-links__entry" target="_blank">
+                <i class="fa fa-github-alt fa-lg" title="Github"></i>
+            </a>
+        {% endif %}
+            <a href="https://www.linkedin.com/in/ismailkalimi" class="social-links__entry" target="_blank">
+                <i class="fa fa-linkedin fa-lg" title="LinkedIn"></i>
+            </a>
+
+            <a href="mailto:ismail@kalimi.net" class="social-links__entry" target="_blank">
+                <i class="fa fa-envelope fa-lg" title="Email"></i>
+            </a>
+    </ul>
+</header>
