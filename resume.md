@@ -15,29 +15,36 @@ Chicago, IL
 
     Languages:
         Ruby
-        JavaScript
-        HTML
-        CSS
+        JavaScript ES6
+        HTML5 & CSS3
         Python
         Java
         Go Lang
         Elixir
         Processing
 
-    Frameworks:
+    Frameworks_Libraries:
         Ruby on Rails
         ReactJS
+        GreenSock Animation
+        Android
         AngularJS
         NodeJS
+        Bootstrap
+        Material UI
 
     Tools:
         Amazon Web Services
         Jenkins (Continous Integration)
+        Webpack
         Nokogiri
         Mechanize
         MemcacheD
         Redis
         Sidekiq
+
+    Version_Control:
+        Git (Github / BitBucket)
 
     Testing:
         Rspec
@@ -49,6 +56,7 @@ Chicago, IL
 
     IDE:
         Vim + Tmux
+        UNIX Toolkit
 
     Visualization:
         Adobe Photoshop, Adobe Illustrator, Sketch
