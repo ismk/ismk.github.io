@@ -52,7 +52,7 @@ Chicago, IL
         Capybara
 
     Databases:
-        SQL (Postgres, SQLite)
+       MySQL, PostgreSQL, SQLite
 
     IDE:
         Vim + Tmux
