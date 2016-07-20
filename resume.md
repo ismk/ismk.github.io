@@ -13,6 +13,8 @@ Chicago, IL
 
 ### SKILLS_
 
+
+```javascript
     Languages:
         Ruby
         JavaScript ES6
@@ -24,21 +26,30 @@ Chicago, IL
         Processing
 
     Frameworks_Libraries:
-        Ruby on Rails
-        ReactJS
-        GreenSock Animation
+        Ruby:
+            Ruby on Rails
+            Sinatra
+            Rspec
+            Nokogiri
+            Mechanize
+
+        Javascript:
+            ReactJS & Flux Architecture
+            GreenSock Animation
+            NodeJS
+            AngularJS
+            Webpack
+            Jasmine
+
+        HTML_CSS:
+            Bootstrap
+            Material UI
+
         Android
-        AngularJS
-        NodeJS
-        Bootstrap
-        Material UI
 
     Tools:
         Amazon Web Services
         Jenkins (Continous Integration)
-        Webpack
-        Nokogiri
-        Mechanize
         MemcacheD
         Redis
         Sidekiq
@@ -46,15 +57,11 @@ Chicago, IL
     Version_Control:
         Git (Github / BitBucket)
 
-    Testing:
-        Rspec
-        Jasmine
-        Capybara
-
     Databases:
        MySQL, PostgreSQL, SQLite
 
-    IDE:
+    Development_Environment:
+        MacOs
         Vim + Tmux
         UNIX Toolkit
 
@@ -62,6 +69,7 @@ Chicago, IL
         Adobe Photoshop, Adobe Illustrator, Sketch
         Autodesk 3Ds Max, V-Ray, Rhinoceros 3D, Autodesk Maya
 
+```
 
 ### EXPERIENCE_
 
