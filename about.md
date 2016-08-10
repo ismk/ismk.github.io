@@ -20,7 +20,7 @@ Some fun facts about me:
 * Avid fan of speedcubing!
 * Science fiction buff
 * Fish Shell User
-* Vim thumper
+* Vimmer for life.
 
 Have questions? Feel free to reach me on ismail@kalimi.net
 
