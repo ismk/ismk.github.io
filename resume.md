@@ -66,12 +66,24 @@ Chicago, IL
         UNIX Toolkit
 
     Visualization:
-        Adobe Photoshop, Adobe Illustrator, Sketch
-        Autodesk 3Ds Max, V-Ray, Rhinoceros 3D, Autodesk Maya
+        Adobe Photoshop, Adobe Illustrator
 
 ```
 
 ### EXPERIENCE_
+
+### Senior Software Engineer
+
+##### Dec ‘16 – Present
+
+#### Vibes Media Inc
+
+* Created full-stack applications using Ruby on Rails, Postgres, Sidekiq, Redis deployed on services from Heroku, chef managed servers to Dockerized containers on Amazon Elastic Container Service (ECS)
+* Worked on high traffic programs/experiences for brands like Chipotle, Redbox and PetSmart, which at some point had over 100,000 requests per minute.
+* Architected service oriented applications providing highly testable and configurable solutions for over 30 applications from project requirements to deployment.
+* Created various ETL pipelines, RESTful services and JSON APIs for client side services.
+* Built internal tools for automating workflows using batch scripts and cron jobs on servers, building Command Line Applications, Electron based Desktop apps and small web utilities.
+* Incorporated third-party services like Exact Target, Eprize.do and Salesforce integration into ongoing and new applications.
 
 ### Software Engineer
 
@@ -124,7 +136,14 @@ Chicago, IL
 
 ##### Jun ’16 - Present
 
-* 6250 Computer Networks
+* CS 7637 Knowledge-Based Artificial Intelligence
+* CS 6300 Software Development Process
+* CS 7638 Artificial Intelligence for Robotics
+* CSE 6242 Data and Visual Analytics
+* CS 6601 Artificial Intelligence
+* CS 6460 Educational Technology
+* CS 7646 Machine Learning for Trading
+* CS 6035 Introduction to Information Security
 
 
 #### Coursera
@@ -154,8 +173,6 @@ Chicago, IL
 <img src="/imgs/projectpothole.jpeg" class="prjimg">
 [Source Code](https://github.com/ismk/chipot)
 
-*Timeline: 5 days*
-
 Built a platform for users to quickly look and report potholes to the City of Chicago, data about city potholes are pulled in real-time using Open Data of Chicago and various API’s, The project was built as to provide a fast User Experience for optimum feedback from the residents of Chicago, Application was built on Ruby on Rails as backend and AngularJS, AJAX and jQuery on the front with additional statistics and graph built on D3js
 
 After working together to get up the site running with google map integration my primarily role on this project shifted to parse and scrape the data from the City of Chicago API and make it accessible to the client from the server, I also took up the charge to optimize page load times and callback functions for the data, achieved those results using Dalli Cache and making the data JSON friendly
@@ -163,8 +180,6 @@ After working together to get up the site running with google map integration my
 #### [Historical Wiki](http://historic-wiki.herokuapp.com/)
 <img src="/imgs/historicwiki.jpeg" class="prjimg">
 [Source Code](https://github.com/ismk/Historical_Wiki)
-
-*Timeline: 4 days*
 
 Created a site where users could create posts focused on historical events, which would visually represented on a timeline. Application was built on Ruby on Rails with AJAX, jQuery on the frontend and the timeline was created with D3js
 
