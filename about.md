@@ -6,8 +6,6 @@ permalink: /about/
 {::options parse_block_html="true" /}
 <div class="about-page">
 
-<img src="../imgs/profile.jpg" class="profile-pic">
-
 Hi! My name is Ismail Kalimi. I am a Full Stack Software Engineer living in Chicago. I work on React and Ruby on Rails, coding away every day. :D
 
 Prior to diving into software development, I was a Computational Designer. My primary job was to design and coordinate design/tech solutions to various projects.
