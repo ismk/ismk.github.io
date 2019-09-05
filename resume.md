@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<a href="/public/ismail_kalimi_resume.pdf" id="resume-download"><h7>Download Résumé</h7></a>
+<a href="/public/ismail_kalimi_resume.pdf" id="resume-download"><h7>Download Resume</h7></a>
 
 # Ismail Kalimi
 Chicago, IL
