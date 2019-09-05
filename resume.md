@@ -87,7 +87,7 @@ Chicago, IL
 
 ### Software Engineer
 
-##### Jan '16 – Present
+##### Jan '16 – Dec '16
 
 #### ExtendMed Inc
 
@@ -144,15 +144,15 @@ Chicago, IL
 * CS 6460 Educational Technology
 * CS 7646 Machine Learning for Trading
 * CS 6035 Introduction to Information Security
+* CS 6400 Database System Concepts & Desgin
+* CS 6440 Intro Health Informatics
 
 
-#### Coursera
+#### MOOCs := Coursera / Udacity
 
-##### Sep 13 - Present
-
+* MIT - Introduction to Algorithms
 * Creative Programming for Digital Media & Mobile Apps University of London
 * Interactive Programming in Python
-* Algorithms, Part I
 
 
 #### Bachelor in Architecture
