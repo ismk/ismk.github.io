@@ -140,7 +140,7 @@ Chicago, IL
 
 #### Masters of Science in Computer Science | Georgia Tech
 
-##### Jun ’16 - Present
+##### Jun ’16 - Dec '19
 
 * CS 7637 Knowledge-Based Artificial Intelligence
 * CS 6300 Software Development Process
