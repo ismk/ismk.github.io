@@ -72,9 +72,15 @@ Chicago, IL
 
 ### EXPERIENCE_
 
+### Senior Software Engineer II
+
+##### Dec ‘19 – Present
+
+#### Vibes Media Inc
+
 ### Senior Software Engineer
 
-##### Dec ‘16 – Present
+##### Dec ‘16 – Nov '19
 
 #### Vibes Media Inc
 
