@@ -76,7 +76,7 @@ Chicago, IL
 
 ##### Dec ‘19 – Present
 
-#### Vibes Media Inc
+#### Inventables
 
 ### Senior Software Engineer
 
