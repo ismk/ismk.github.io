@@ -78,6 +78,13 @@ Chicago, IL
 
 #### Inventables
 
+* Created full-stack applications using Ruby on Rails, Postgres, Sidekiq, Redis deployed on services from Heroku, chef managed servers to Dockerized containers on Amazon Elastic Container Service (ECS)
+* Worked on high traffic programs/experiences for brands like Chipotle, Redbox and PetSmart, which at some point had over 100,000 requests per minute.
+* Architected service oriented applications providing highly testable and configurable solutions for over 30 applications from project requirements to deployment. 
+* Created various ETL pipelines, RESTful services and JSON APIs for client side services.
+* Built internal tools for automating workflows using batch scripts and cron jobs on servers, building Command Line Applications, Electron based Desktop apps and small web utilities.
+* Incorporated third-party services like Exact Target, Eprize.do and Salesforce integration into ongoing and new applications.
+
 ### Senior Software Engineer
 
 ##### Dec ‘16 – Nov '19
